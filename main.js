@@ -6,7 +6,7 @@ let answersArea = document.querySelector('.answers_area')
 let submitButton = document.querySelector('.submit-button')
 let resultsContainer = document.querySelector('.results')
 let countdownElement = document.querySelector('.countdown')
-let timeAnswer = 160
+let timeAnswer = 15
 let currentIndex = 0
 let rightAnswer = 0
 let countDownInterval;
